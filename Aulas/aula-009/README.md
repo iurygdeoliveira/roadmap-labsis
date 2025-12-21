@@ -1,4 +1,4 @@
-# Aula 007 - Acessibilidade (ARIA) e Entrega 01
+# Aula 006 - Formulários - Estrutura e Acessibilidade
 
 **Bloco:** Arquitetura Semântica e Estruturação de Documentos  
 **Período:** 0h-10h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Atributos aria-*
-- Navegação por teclado
-- Contraste e WCAG
+- Atributos name e id
+- Associação label-input
+- Fieldset e legend
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 01: Wireframe Semântico**
+   - Completar formulários HTML
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 01: Wireframe Semântico**
+Completar formulários HTML
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

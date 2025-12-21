@@ -1,4 +1,4 @@
-# Aula 129 - Relation Managers - Parte 2
+# Aula 128 - Relation Managers - Parte 1
 
 **Bloco:** Relacionamentos e Formulários Complexos  
 **Período:** 190h-200h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- belongsToMany
-- Tabelas pivot
-- Attach/Detach
+- make:filament-relation-manager
+- hasMany
+- Lista de filhos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Relações N:N no Filament
+   - Gerenciar relacionamentos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Relações N:N no Filament
+Gerenciar relacionamentos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

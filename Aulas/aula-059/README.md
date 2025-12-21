@@ -1,4 +1,4 @@
-# Aula 057 - Migrations - Parte 1
+# Aula 056 - Modelagem de Dados - Parte 2
 
 **Bloco:** Banco de Dados Relacional e Migrations  
 **Período:** 80h-90h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- php artisan make:migration
-- up() e down()
-- Tipos de colunas
+- Relacionamentos (1:N, N:N)
+- Chaves estrangeiras
+- Normalização
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Migrations das tabelas principais
+   - Completar DER
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Migrations das tabelas principais
+Completar DER
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

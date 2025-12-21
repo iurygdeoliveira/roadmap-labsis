@@ -1,4 +1,4 @@
-# Aula 153 - CI/CD - GitHub Actions
+# Aula 152 - Deploy - Aplicação
 
 **Bloco:** Deploy, Produção e Carreira  
 **Período:** 220h-230h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Workflow básico
-- Testes automatizados
-- Deploy automático
+- Git deploy
+- Supervisor (queues)
+- Migrations em produção
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Automação
+   - Colocar no ar
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Automação
+Colocar no ar
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

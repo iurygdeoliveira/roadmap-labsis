@@ -1,4 +1,4 @@
-# Aula 071 - Componentes Blade - Parte 2
+# Aula 070 - Componentes Blade - Parte 1
 
 **Bloco:** Blade Templating e Frontend Assets  
 **Período:** 100h-110h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Slots
-- Atributos dinâmicos
-- Componentes anônimos
+- <x-component />
+- php artisan make:component
+- Props
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Biblioteca de componentes
+   - Componentes reutilizáveis
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Biblioteca de componentes
+Componentes reutilizáveis
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

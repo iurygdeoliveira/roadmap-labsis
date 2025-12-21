@@ -1,4 +1,4 @@
-# Aula 142 - Custom Pages - Parte 2
+# Aula 141 - Custom Pages - Parte 1
 
 **Bloco:** Customização Extrema e Plugins  
 **Período:** 210h-220h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Navegação
-- Widgets na página
-- Ações customizadas
+- make:filament-page
+- Views customizadas
+- Lógica específica
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Páginas completas
+   - Páginas especiais
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Páginas completas
+Páginas especiais
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

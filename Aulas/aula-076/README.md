@@ -1,4 +1,4 @@
-# Aula 074 - Frontend Completo
+# Aula 073 - Componentização Avançada
 
 **Bloco:** Blade Templating e Frontend Assets  
 **Período:** 100h-110h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Integrar CSS da Fase 1
-- Refatorar views
-- Polimento visual
+- Cards, Modais, Tabelas
+- Botões e Forms
+- Alertas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 11: Interface Modularizada**
+   - Componentes do projeto
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 11: Interface Modularizada**
+Componentes do projeto
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

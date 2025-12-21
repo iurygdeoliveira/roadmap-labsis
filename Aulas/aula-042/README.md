@@ -1,4 +1,4 @@
-# Aula 040 - ES Modules
+# Aula 039 - LocalStorage e SessionStorage
 
 **Bloco:** Assincronismo e APIs  
 **Período:** 50h-60h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- import/export
-- export default
-- Organização em módulos
+- setItem, getItem, removeItem
+- Serialização JSON
+- Limites de armazenamento
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 06: Protótipo Persistente**
+   - Persistir dados localmente
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 06: Protótipo Persistente**
+Persistir dados localmente
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

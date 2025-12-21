@@ -1,4 +1,4 @@
-# Aula 043 - Sintaxe PHP 8.5+ - Parte 2
+# Aula 042 - Sintaxe PHP 8.5+ - Parte 1
 
 **Bloco:** PHP Moderno e Orientação a Objetos  
 **Período:** 60h-70h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Named Arguments
-- Nullsafe Operator
-- Match expression
+- Tipos de dados
+- Tipagem forte
+- Union Types
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Funções tipadas
+   - Scripts PHP básicos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Funções tipadas
+Scripts PHP básicos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

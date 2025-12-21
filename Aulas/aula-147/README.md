@@ -1,4 +1,4 @@
-# Aula 145 - Plugins - Spatie Media Library
+# Aula 144 - Custom Actions - Parte 2
 
 **Bloco:** Customização Extrema e Plugins  
 **Período:** 210h-220h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Instalação
-- Configuração
-- Uso no Filament
+- Confirmação
+- Notificações
+- Lógica de negócio
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Upload avançado
+   - Ações complexas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Upload avançado
+Ações complexas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 063 - Relacionamentos - hasOne e belongsTo
+# Aula 062 - Eloquent Models - Parte 2
 
 **Bloco:** Eloquent ORM e Relacionamentos  
 **Período:** 90h-100h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- hasOne()
-- belongsTo()
-- Consultar relações
+- Accessors & Mutators
+- Casts
+- Timestamps
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Relações 1:1
+   - Completar models
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Relações 1:1
+Completar models
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

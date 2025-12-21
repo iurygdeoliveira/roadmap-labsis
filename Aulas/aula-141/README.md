@@ -1,4 +1,4 @@
-# Aula 139 - Chart Widgets - Parte 3
+# Aula 138 - Chart Widgets - Parte 2
 
 **Bloco:** Dashboards, Widgets e Infolists  
 **Período:** 200h-210h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Filtros em gráficos
-- Refresh automático
-- Interatividade
+- PieChartWidget
+- Cores customizadas
+- Legendas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Gráficos interativos
+   - Gráficos variados
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Gráficos interativos
+Gráficos variados
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

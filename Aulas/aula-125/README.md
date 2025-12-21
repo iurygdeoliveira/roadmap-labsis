@@ -1,4 +1,4 @@
-# Aula 123 - Filtros - Parte 1
+# Aula 122 - Table Builder - Colunas Avançadas
 
 **Bloco:** Tabelas e Listagens Avançadas no Filament  
 **Período:** 180h-190h  
@@ -6,9 +6,10 @@
 
 ## 📚 Conteúdo Programático
 
-- Filter
-- SelectFilter
-- TernaryFilter
+- IconColumn
+- ColorColumn
+- BadgeColumn
+- Formatação
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +29,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Sistema de filtros
+   - Listagens ricas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Sistema de filtros
+Listagens ricas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

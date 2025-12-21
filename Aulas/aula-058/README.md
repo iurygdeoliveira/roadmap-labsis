@@ -1,4 +1,4 @@
-# Aula 056 - Modelagem de Dados - Parte 2
+# Aula 055 - Modelagem de Dados - Parte 1
 
 **Bloco:** Banco de Dados Relacional e Migrations  
 **Período:** 80h-90h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Relacionamentos (1:N, N:N)
-- Chaves estrangeiras
-- Normalização
+- Entidades e atributos
+- Chaves primárias
+- Tipos de dados
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Completar DER
+   - DER do projeto
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Completar DER
+DER do projeto
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 117 - Recursos - Parte 3
+# Aula 116 - Recursos - Parte 2
 
 **Bloco:** Fundamentos do Filament Panel  
 **Período:** 170h-180h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Personalizar rotas
-- Ícones
-- Labels
+- Configurar tabela
+- Configurar formulário
+- Navegação
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Customizar Resources
+   - Resources principais
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Customizar Resources
+Resources principais
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

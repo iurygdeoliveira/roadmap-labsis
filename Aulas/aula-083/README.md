@@ -1,14 +1,14 @@
-# Aula 081 - Instalação Tailwind
+# Aula 080 - Segurança
 
-**Bloco:** Tailwind CSS - A Revolução Utilitária  
-**Período:** 120h-130h  
+**Bloco:** Autenticação, Autorização e Segurança  
+**Período:** 110h-120h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- npm install tailwindcss
-- tailwind.config.js
-- Compilador JIT
+- Proteção CSRF
+- XSS Prevention
+- SQL Injection (Eloquent)
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Setup Tailwind
+   - **ENTREGA 12: Sistema Seguro**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Setup Tailwind
+**ENTREGA 12: Sistema Seguro**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

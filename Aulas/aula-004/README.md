@@ -1,4 +1,4 @@
-# Aula 002 - HTTP Avançado e DNS
+# Aula 001 - Teoria da Web - Modelo Cliente-Servidor
 
 **Bloco:** Arquitetura Semântica e Estruturação de Documentos  
 **Período:** 0h-10h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Headers HTTP
-- Funcionamento do DNS
-- DevTools Network
+- Modelo Cliente-Servidor
+- Protocolo HTTP básico
+- Status Codes comuns
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Finalizar escopo do Projeto Autoral
+   - Começar definição do Projeto Autoral
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Finalizar escopo do Projeto Autoral
+Começar definição do Projeto Autoral
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,14 +1,14 @@
-# Aula 008 - Cascata e Especificidade
+# Aula 007 - Acessibilidade (ARIA) e Entrega 01
 
-**Bloco:** Estilização e Design Systems com CSS3  
-**Período:** 10h-20h  
+**Bloco:** Arquitetura Semântica e Estruturação de Documentos  
+**Período:** 0h-10h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- Seletores e peso
-- Box Model completo
-- box-sizing: border-box
+- Atributos aria-*
+- Navegação por teclado
+- Contraste e WCAG
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Estilização básica das telas
+   - **ENTREGA 01: Wireframe Semântico**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Estilização básica das telas
+**ENTREGA 01: Wireframe Semântico**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 013 - CSS Grid - Layouts Complexos
+# Aula 012 - CSS Grid - Fundamentos
 
 **Bloco:** Estilização e Design Systems com CSS3  
 **Período:** 10h-20h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- fr unit
-- auto-fit vs auto-fill
-- minmax()
+- grid-template-columns/rows
+- grid-gap
+- grid-template-areas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Estrutura de conteúdo principal
+   - Layout Dashboard com Grid
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Estrutura de conteúdo principal
+Layout Dashboard com Grid
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

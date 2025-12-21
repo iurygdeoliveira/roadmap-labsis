@@ -1,4 +1,4 @@
-# Aula 010 - Flexbox - Fundamentos
+# Aula 009 - Box Model e Posicionamento
 
 **Bloco:** Estilização e Design Systems com CSS3  
 **Período:** 10h-20h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Eixos principal e transversal
-- justify-content, align-items
-- flex-direction, flex-wrap
+- Margin, padding, border
+- Display (block, inline)
+- Position (static, relative, absolute)
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Menu de navegação com Flexbox
+   - Estilizar header e footer
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Menu de navegação com Flexbox
+Estilizar header e footer
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 034 - Validação de Formulários - Parte 2
+# Aula 033 - Validação de Formulários - Parte 1
 
 **Bloco:** O DOM e Interatividade  
 **Período:** 40h-50h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Máscaras de input
-- Validações customizadas
-- UX de validação
+- Interceptar submit
+- Validar campos
+- Exibir mensagens de erro
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 05: Interface Dinâmica**
+   - Validar formulário principal
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 05: Interface Dinâmica**
+Validar formulário principal
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

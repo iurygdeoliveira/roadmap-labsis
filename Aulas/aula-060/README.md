@@ -1,4 +1,4 @@
-# Aula 058 - Migrations - Parte 2
+# Aula 057 - Migrations - Parte 1
 
 **Bloco:** Banco de Dados Relacional e Migrations  
 **Período:** 80h-90h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Relacionamentos
-- Constraints
-- Índices
+- php artisan make:migration
+- up() e down()
+- Tipos de colunas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Completar todas migrations
+   - Migrations das tabelas principais
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Completar todas migrations
+Migrations das tabelas principais
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

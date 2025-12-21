@@ -1,4 +1,4 @@
-# Aula 065 - Relacionamentos - belongsToMany
+# Aula 064 - Relacionamentos - hasMany
 
 **Bloco:** Eloquent ORM e Relacionamentos  
 **Período:** 90h-100h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- belongsToMany()
-- Tabelas pivot
-- attach, detach, sync
+- hasMany()
+- Eager loading (with)
+- Lazy loading
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Relações N:N
+   - Relações 1:N
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Relações N:N
+Relações 1:N
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

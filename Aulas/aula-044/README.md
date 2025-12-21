@@ -1,4 +1,4 @@
-# Aula 042 - Sintaxe PHP 8.5+ - Parte 1
+# Aula 041 - Ambiente PHP
 
 **Bloco:** PHP Moderno e Orientação a Objetos  
 **Período:** 60h-70h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Tipos de dados
-- Tipagem forte
-- Union Types
+- Instalação PHP 8.5+
+- Composer
+- Docker/Laravel Sail
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Scripts PHP básicos
+   - Setup ambiente de desenvolvimento
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Scripts PHP básicos
+Setup ambiente de desenvolvimento
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

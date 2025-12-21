@@ -1,4 +1,4 @@
-# Aula 113 - Performance e wire:key
+# Aula 112 - Modularização Avançada
 
 **Bloco:** Integração Alpine + Livewire e Otimização  
 **Período:** 160h-170h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- wire:key
-- Lazy loading
-- Otimizações
+- Botões, Modais
+- Estrutura escalável
+- Design system
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 17: Aplicação SPA**
+   - Componentização completa
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 17: Aplicação SPA**
+Componentização completa
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,14 +1,14 @@
-# Aula 075 - Autenticação - Laravel Breeze
+# Aula 074 - Frontend Completo
 
-**Bloco:** Autenticação, Autorização e Segurança  
-**Período:** 110h-120h  
+**Bloco:** Blade Templating e Frontend Assets  
+**Período:** 100h-110h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- composer require laravel/breeze
-- Login, Register
-- Password Reset
+- Integrar CSS da Fase 1
+- Refatorar views
+- Polimento visual
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Sistema de autenticação
+   - **ENTREGA 11: Interface Modularizada**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Sistema de autenticação
+**ENTREGA 11: Interface Modularizada**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

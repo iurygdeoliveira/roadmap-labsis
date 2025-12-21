@@ -1,14 +1,14 @@
-# Aula 061 - Eloquent Models - Parte 1
+# Aula 060 - Query Builder
 
-**Bloco:** Eloquent ORM e Relacionamentos  
-**Período:** 90h-100h  
+**Bloco:** Banco de Dados Relacional e Migrations  
+**Período:** 80h-90h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- php artisan make:model
-- Convenções
-- $fillable, $guarded
+- DB::table()
+- select, where, join
+- SQL vs Query Builder
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Models principais
+   - **ENTREGA 09: Schema Versionado**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Models principais
+**ENTREGA 09: Schema Versionado**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

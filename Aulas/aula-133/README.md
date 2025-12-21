@@ -1,4 +1,4 @@
-# Aula 131 - Layout - Grid e Section
+# Aula 130 - Relation Managers - Parte 3
 
 **Bloco:** Relacionamentos e Formulários Complexos  
 **Período:** 190h-200h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Grid::make()
-- Section::make()
-- Organizar campos
+- Customização
+- Tabs
+- Ações específicas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Layouts de formulário
+   - Personalizar relation managers
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Layouts de formulário
+Personalizar relation managers
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

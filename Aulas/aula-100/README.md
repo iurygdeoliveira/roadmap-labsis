@@ -1,4 +1,4 @@
-# Aula 098 - Componentes Livewire - Parte 2
+# Aula 097 - Componentes Livewire - Parte 1
 
 **Bloco:** Introdução ao Livewire 3  
 **Período:** 140h-150h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- wire:model
-- Data binding
-- Reatividade
+- make:livewire
+- Classe PHP + View
+- Propriedades públicas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Formulário Livewire
+   - Primeiro componente
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Formulário Livewire
+Primeiro componente
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

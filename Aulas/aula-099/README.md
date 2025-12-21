@@ -1,4 +1,4 @@
-# Aula 097 - Componentes Livewire - Parte 1
+# Aula 096 - Arquitetura Livewire
 
 **Bloco:** Introdução ao Livewire 3  
 **Período:** 140h-150h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- make:livewire
-- Classe PHP + View
-- Propriedades públicas
+- Ciclo AJAX
+- Hydration/Dehydration
+- Como funciona
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Primeiro componente
+   - Entender Livewire
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Primeiro componente
+Entender Livewire
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

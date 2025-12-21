@@ -1,4 +1,4 @@
-# Aula 138 - Chart Widgets - Parte 2
+# Aula 137 - Chart Widgets - Parte 1
 
 **Bloco:** Dashboards, Widgets e Infolists  
 **Período:** 200h-210h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- PieChartWidget
-- Cores customizadas
-- Legendas
+- LineChartWidget
+- BarChartWidget
+- Dados do Eloquent
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Gráficos variados
+   - Gráficos básicos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Gráficos variados
+Gráficos básicos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

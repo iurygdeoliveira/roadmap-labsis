@@ -1,4 +1,4 @@
-# Aula 036 - Async/Await e Event Loop
+# Aula 035 - Assincronismo - Callbacks e Promises
 
 **Bloco:** Assincronismo e APIs  
 **Período:** 50h-60h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- async/await
-- Event Loop (conceito)
-- Microtasks vs macrotasks
+- Callbacks
+- Promise (resolve, reject)
+- then, catch
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Refatorar com async/await
+   - Simular requisições assíncronas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Refatorar com async/await
+Simular requisições assíncronas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

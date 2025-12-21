@@ -1,14 +1,14 @@
-# Aula 128 - Relation Managers - Parte 1
+# Aula 127 - Exportação e Impressão
 
-**Bloco:** Relacionamentos e Formulários Complexos  
-**Período:** 190h-200h  
+**Bloco:** Tabelas e Listagens Avançadas no Filament  
+**Período:** 180h-190h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- make:filament-relation-manager
-- hasMany
-- Lista de filhos
+- Export
+- PDF
+- Excel (conceito)
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Gerenciar relacionamentos
+   - **ENTREGA 19: Gestão Avançada**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Gerenciar relacionamentos
+**ENTREGA 19: Gestão Avançada**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

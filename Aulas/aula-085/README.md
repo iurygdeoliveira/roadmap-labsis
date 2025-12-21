@@ -1,4 +1,4 @@
-# Aula 083 - Espaçamento e Cores
+# Aula 082 - Filosofia Utility-First
 
 **Bloco:** Tailwind CSS - A Revolução Utilitária  
 **Período:** 120h-130h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- p-, m-, gap-
-- bg-, text-, border-
-- Escala de cores
+- Por que utility-first?
+- Classes utilitárias
+- Configuração
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Migrar espaçamento
+   - Primeiras classes
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Migrar espaçamento
+Primeiras classes
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

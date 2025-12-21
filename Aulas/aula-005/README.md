@@ -1,4 +1,4 @@
-# Aula 003 - HTML5 Semântico - Elementos Estruturais
+# Aula 002 - HTTP Avançado e DNS
 
 **Bloco:** Arquitetura Semântica e Estruturação de Documentos  
 **Período:** 0h-10h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- <main>, <nav>, <article>
-- Diferença bloco vs inline
-- SEO básico
+- Headers HTTP
+- Funcionamento do DNS
+- DevTools Network
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Criar estrutura de pastas do projeto
+   - Finalizar escopo do Projeto Autoral
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Criar estrutura de pastas do projeto
+Finalizar escopo do Projeto Autoral
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

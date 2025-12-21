@@ -1,14 +1,15 @@
-# Aula 043 - Sintaxe PHP 8.5+ - Parte 2
+# Aula 154 - Carreira e Próximos Passos
 
-**Bloco:** PHP Moderno e Orientação a Objetos  
-**Período:** 60h-70h  
+**Bloco:** Deploy, Produção e Carreira  
+**Período:** 220h-230h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- Named Arguments
-- Nullsafe Operator
-- Match expression
+- Portfólio
+- GitHub
+- LinkedIn
+- Mercado de trabalho
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +29,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Funções tipadas
+   - **ENTREGA FINAL: Projeto em Produção**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Funções tipadas
+**ENTREGA FINAL: Projeto em Produção**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

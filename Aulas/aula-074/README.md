@@ -1,4 +1,4 @@
-# Aula 072 - Vite e Assets
+# Aula 071 - Componentes Blade - Parte 2
 
 **Bloco:** Blade Templating e Frontend Assets  
 **Período:** 100h-110h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- vite.config.js
-- @vite(['resources/css/app.css'])
-- Build de produção
+- Slots
+- Atributos dinâmicos
+- Componentes anônimos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Integrar CSS e JS
+   - Biblioteca de componentes
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Integrar CSS e JS
+Biblioteca de componentes
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

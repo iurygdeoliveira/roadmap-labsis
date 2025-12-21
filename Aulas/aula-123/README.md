@@ -1,14 +1,14 @@
-# Aula 121 - Table Builder - Colunas Básicas
+# Aula 120 - Validação Automática
 
-**Bloco:** Tabelas e Listagens Avançadas no Filament  
-**Período:** 180h-190h  
+**Bloco:** Fundamentos do Filament Panel  
+**Período:** 170h-180h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- TextColumn
-- BooleanColumn
-- ImageColumn
+- Regras de validação
+- Mensagens customizadas
+- Validação em tempo real
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Listagens básicas
+   - **ENTREGA 18: Painel Básico**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Listagens básicas
+**ENTREGA 18: Painel Básico**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

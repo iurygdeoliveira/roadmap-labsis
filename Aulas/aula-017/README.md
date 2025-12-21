@@ -1,14 +1,14 @@
-# Aula 015 - Media Queries - Fundamentos
+# Aula 014 - Variáveis CSS e Design System
 
-**Bloco:** Design Responsivo e Metodologias CSS  
-**Período:** 20h-30h  
+**Bloco:** Estilização e Design Systems com CSS3  
+**Período:** 10h-20h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- Breakpoints comuns
-- Mobile-First vs Desktop-First
-- Estratégias de responsividade
+- Custom Properties (--var)
+- Paleta de cores
+- Tipografia base
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Tornar header responsivo
+   - **ENTREGA 02: Interface Estática Fiel**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Tornar header responsivo
+**ENTREGA 02: Interface Estática Fiel**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

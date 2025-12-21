@@ -1,4 +1,4 @@
-# Aula 014 - Variáveis CSS e Design System
+# Aula 013 - CSS Grid - Layouts Complexos
 
 **Bloco:** Estilização e Design Systems com CSS3  
 **Período:** 10h-20h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Custom Properties (--var)
-- Paleta de cores
-- Tipografia base
+- fr unit
+- auto-fit vs auto-fill
+- minmax()
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 02: Interface Estática Fiel**
+   - Estrutura de conteúdo principal
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 02: Interface Estática Fiel**
+Estrutura de conteúdo principal
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

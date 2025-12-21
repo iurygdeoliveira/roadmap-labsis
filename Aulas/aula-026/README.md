@@ -1,4 +1,4 @@
-# Aula 024 - Controle de Fluxo - Parte 2
+# Aula 023 - Controle de Fluxo - Parte 1
 
 **Bloco:** Lógica de Programação com JavaScript ES6+  
 **Período:** 30h-40h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- for, while, do...while
-- break e continue
-- try...catch
+- if, else, switch
+- Operador ternário
+- Truthy e falsy values
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Loops para processar dados
+   - Lógica de validação de dados
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Loops para processar dados
+Lógica de validação de dados
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

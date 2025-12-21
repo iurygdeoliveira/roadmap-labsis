@@ -1,4 +1,4 @@
-# Aula 092 - Alpine.js - x-model
+# Aula 091 - Alpine.js - x-transition
 
 **Bloco:** Alpine.js - Interatividade Declarativa  
 **Período:** 130h-140h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Two-way binding
-- x-model em inputs
-- Sincronização
+- Transições suaves
+- Classes de transição
+- Durações
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Formulários reativos
+   - Animações Alpine
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Formulários reativos
+Animações Alpine
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

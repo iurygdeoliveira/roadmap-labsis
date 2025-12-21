@@ -1,4 +1,4 @@
-# Aula 099 - Ações - wire:click
+# Aula 098 - Componentes Livewire - Parte 2
 
 **Bloco:** Introdução ao Livewire 3  
 **Período:** 140h-150h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Chamar métodos PHP
-- Passar parâmetros
-- Feedback visual
+- wire:model
+- Data binding
+- Reatividade
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Ações do usuário
+   - Formulário Livewire
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Ações do usuário
+Formulário Livewire
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

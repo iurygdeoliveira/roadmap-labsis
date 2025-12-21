@@ -1,4 +1,4 @@
-# Aula 100 - Lifecycle Hooks
+# Aula 099 - Ações - wire:click
 
 **Bloco:** Introdução ao Livewire 3  
 **Período:** 140h-150h  
@@ -6,10 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- mount()
-- render()
-- updated()
-- dehydrate()
+- Chamar métodos PHP
+- Passar parâmetros
+- Feedback visual
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -29,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 15: Formulários Reativos**
+   - Ações do usuário
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 15: Formulários Reativos**
+Ações do usuário
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

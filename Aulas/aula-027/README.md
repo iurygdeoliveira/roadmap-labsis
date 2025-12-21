@@ -1,4 +1,4 @@
-# Aula 025 - Funções e Escopo
+# Aula 024 - Controle de Fluxo - Parte 2
 
 **Bloco:** Lógica de Programação com JavaScript ES6+  
 **Período:** 30h-40h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Arrow functions
-- Escopo léxico
-- Closures
+- for, while, do...while
+- break e continue
+- try...catch
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Funções de cálculo do negócio
+   - Loops para processar dados
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Funções de cálculo do negócio
+Loops para processar dados
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

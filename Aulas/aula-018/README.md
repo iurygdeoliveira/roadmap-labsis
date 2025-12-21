@@ -1,4 +1,4 @@
-# Aula 016 - Media Queries - Layouts Adaptativos
+# Aula 015 - Media Queries - Fundamentos
 
 **Bloco:** Design Responsivo e Metodologias CSS  
 **Período:** 20h-30h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Container queries (conceito)
-- Aspect-ratio
-- Tabelas responsivas
+- Breakpoints comuns
+- Mobile-First vs Desktop-First
+- Estratégias de responsividade
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Adaptar conteúdo para mobile
+   - Tornar header responsivo
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Adaptar conteúdo para mobile
+Tornar header responsivo
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

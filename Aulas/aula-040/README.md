@@ -1,4 +1,4 @@
-# Aula 038 - Fetch API - Parte 2
+# Aula 037 - Fetch API - Parte 1
 
 **Bloco:** Assincronismo e APIs  
 **Período:** 50h-60h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- JSON.parse, JSON.stringify
-- Tratamento de erros
-- Status codes
+- fetch()
+- Métodos HTTP (GET, POST)
+- Headers
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Integrar ViaCEP ou similar
+   - Consumir API pública
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Integrar ViaCEP ou similar
+Consumir API pública
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

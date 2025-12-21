@@ -1,14 +1,14 @@
-# Aula 108 - Entangle - Parte 1
+# Aula 107 - Upload de Arquivos - Parte 2
 
-**Bloco:** Integração Alpine + Livewire e Otimização  
-**Período:** 160h-170h  
+**Bloco:** Livewire Avançado e Tabelas  
+**Período:** 150h-160h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- @entangle()
-- Sincronizar estado
-- Alpine ↔ Livewire
+- Preview temporário
+- Múltiplos arquivos
+- Progresso
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Estado compartilhado
+   - **ENTREGA 16: Datatables Dinâmicas**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Estado compartilhado
+**ENTREGA 16: Datatables Dinâmicas**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

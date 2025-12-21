@@ -1,4 +1,4 @@
-# Aula 103 - Loading States
+# Aula 102 - Filtros e Busca
 
 **Bloco:** Livewire Avançado e Tabelas  
 **Período:** 150h-160h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- wire:loading
-- wire:target
-- Indicadores de loading
+- Query strings
+- Filtros em tempo real
+- Resetar filtros
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Feedback de carregamento
+   - Sistema de busca
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Feedback de carregamento
+Sistema de busca
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

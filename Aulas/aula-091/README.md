@@ -1,4 +1,4 @@
-# Aula 089 - Alpine.js - x-bind e x-on
+# Aula 088 - Alpine.js - Instalação e x-data
 
 **Bloco:** Alpine.js - Interatividade Declarativa  
 **Período:** 130h-140h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- x-bind (:
-- x-on (@)
-- Eventos
+- CDN Alpine
+- x-data
+- Estado reativo
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Interações básicas
+   - Primeiro componente Alpine
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Interações básicas
+Primeiro componente Alpine
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

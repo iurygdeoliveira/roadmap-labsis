@@ -1,14 +1,14 @@
-# Aula 028 - Árvore DOM - Parte 1
+# Aula 027 - Arrays - Métodos de Alta Ordem - Parte 2
 
-**Bloco:** O DOM e Interatividade  
-**Período:** 40h-50h  
+**Bloco:** Lógica de Programação com JavaScript ES6+  
+**Período:** 30h-40h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- querySelector, querySelectorAll
-- getElementById
-- getElementsByClassName
+- reduce
+- sort
+- Encadeamento de métodos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Selecionar elementos da página
+   - **ENTREGA 04: Módulo de Lógica**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Selecionar elementos da página
+**ENTREGA 04: Módulo de Lógica**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

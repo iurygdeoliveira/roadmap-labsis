@@ -1,4 +1,4 @@
-# Aula 087 - Dark Mode
+# Aula 086 - Estados e Responsividade
 
 **Bloco:** Tailwind CSS - A Revolução Utilitária  
 **Período:** 120h-130h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- class='dark'
-- dark: prefix
-- Toggle de tema
+- hover:, focus:, active:
+- sm:, md:, lg:, xl:
+- dark:
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 13: UI com Tailwind**
+   - Responsividade Tailwind
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 13: UI com Tailwind**
+Responsividade Tailwind
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

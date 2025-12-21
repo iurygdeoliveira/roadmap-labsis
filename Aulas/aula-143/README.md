@@ -1,14 +1,14 @@
-# Aula 141 - Custom Pages - Parte 1
+# Aula 140 - Infolists
 
-**Bloco:** Customização Extrema e Plugins  
-**Período:** 210h-220h  
+**Bloco:** Dashboards, Widgets e Infolists  
+**Período:** 200h-210h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- make:filament-page
-- Views customizadas
-- Lógica específica
+- Infolist::make()
+- Páginas read-only
+- Estruturação de dados
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Páginas especiais
+   - **ENTREGA 21: Dashboard BI**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Páginas especiais
+**ENTREGA 21: Dashboard BI**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 127 - Exportação e Impressão
+# Aula 126 - Bulk Actions
 
 **Bloco:** Tabelas e Listagens Avançadas no Filament  
 **Período:** 180h-190h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Export
-- PDF
-- Excel (conceito)
+- BulkActionGroup
+- Seleção múltipla
+- Ações em massa
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 19: Gestão Avançada**
+   - Operações em massa
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 19: Gestão Avançada**
+Operações em massa
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

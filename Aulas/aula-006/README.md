@@ -1,4 +1,4 @@
-# Aula 004 - HTML5 Semântico - Seções e Layout
+# Aula 003 - HTML5 Semântico - Elementos Estruturais
 
 **Bloco:** Arquitetura Semântica e Estruturação de Documentos  
 **Período:** 0h-10h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- <section>, <aside>, <header>, <footer>
-- Hierarquia de informação
-- Boas práticas
+- <main>, <nav>, <article>
+- Diferença bloco vs inline
+- SEO básico
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Wireframe HTML das 3 telas principais
+   - Criar estrutura de pastas do projeto
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Wireframe HTML das 3 telas principais
+Criar estrutura de pastas do projeto
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 090 - Alpine.js - x-show e x-if
+# Aula 089 - Alpine.js - x-bind e x-on
 
 **Bloco:** Alpine.js - Interatividade Declarativa  
 **Período:** 130h-140h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Visibilidade condicional
-- x-show vs x-if
-- Performance
+- x-bind (:
+- x-on (@)
+- Eventos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Mostrar/ocultar elementos
+   - Interações básicas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Mostrar/ocultar elementos
+Interações básicas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

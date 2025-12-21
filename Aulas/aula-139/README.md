@@ -1,4 +1,4 @@
-# Aula 137 - Chart Widgets - Parte 1
+# Aula 136 - Widgets de Estatísticas - Parte 2
 
 **Bloco:** Dashboards, Widgets e Infolists  
 **Período:** 200h-210h  
@@ -6,9 +6,10 @@
 
 ## 📚 Conteúdo Programático
 
-- LineChartWidget
-- BarChartWidget
-- Dados do Eloquent
+- Tendências
+- Cores
+- Descrições
+- Links
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +29,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Gráficos básicos
+   - KPIs completos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Gráficos básicos
+KPIs completos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

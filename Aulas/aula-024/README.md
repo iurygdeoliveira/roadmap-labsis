@@ -1,4 +1,4 @@
-# Aula 022 - Sintaxe Moderna JavaScript - Parte 2
+# Aula 021 - Sintaxe Moderna JavaScript - Parte 1
 
 **Bloco:** Lógica de Programação com JavaScript ES6+  
 **Período:** 30h-40h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Objetos e arrays
-- Destructuring
-- Spread operator
+- let, const vs var
+- Tipos primitivos
+- Template strings
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Criar mock data do projeto
+   - Script básico de manipulação de dados
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Criar mock data do projeto
+Script básico de manipulação de dados
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

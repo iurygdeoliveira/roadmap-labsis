@@ -1,4 +1,4 @@
-# Aula 140 - Infolists
+# Aula 139 - Chart Widgets - Parte 3
 
 **Bloco:** Dashboards, Widgets e Infolists  
 **Período:** 200h-210h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Infolist::make()
-- Páginas read-only
-- Estruturação de dados
+- Filtros em gráficos
+- Refresh automático
+- Interatividade
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 21: Dashboard BI**
+   - Gráficos interativos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 21: Dashboard BI**
+Gráficos interativos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

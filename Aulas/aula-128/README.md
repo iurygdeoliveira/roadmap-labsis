@@ -1,4 +1,4 @@
-# Aula 126 - Bulk Actions
+# Aula 125 - Ações de Linha
 
 **Bloco:** Tabelas e Listagens Avançadas no Filament  
 **Período:** 180h-190h  
@@ -6,9 +6,10 @@
 
 ## 📚 Conteúdo Programático
 
-- BulkActionGroup
-- Seleção múltipla
-- Ações em massa
+- EditAction
+- DeleteAction
+- ViewAction
+- Custom actions
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +29,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Operações em massa
+   - Ações nas linhas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Operações em massa
+Ações nas linhas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

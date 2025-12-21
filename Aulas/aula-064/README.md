@@ -1,4 +1,4 @@
-# Aula 062 - Eloquent Models - Parte 2
+# Aula 061 - Eloquent Models - Parte 1
 
 **Bloco:** Eloquent ORM e Relacionamentos  
 **Período:** 90h-100h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Accessors & Mutators
-- Casts
-- Timestamps
+- php artisan make:model
+- Convenções
+- $fillable, $guarded
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Completar models
+   - Models principais
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Completar models
+Models principais
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

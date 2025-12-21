@@ -1,4 +1,4 @@
-# Aula 031 - Manipulação do DOM - Parte 2
+# Aula 030 - Manipulação do DOM - Parte 1
 
 **Bloco:** O DOM e Interatividade  
 **Período:** 40h-50h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- classList (add, remove, toggle)
-- style (inline styles)
-- removeChild
+- createElement, appendChild
+- textContent, innerHTML
+- setAttribute
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Interações visuais
+   - Adicionar elementos dinamicamente
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Interações visuais
+Adicionar elementos dinamicamente
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

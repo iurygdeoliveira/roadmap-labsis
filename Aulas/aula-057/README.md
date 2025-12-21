@@ -1,14 +1,14 @@
-# Aula 055 - Modelagem de Dados - Parte 1
+# Aula 054 - Response e Views
 
-**Bloco:** Banco de Dados Relacional e Migrations  
-**Período:** 80h-90h  
+**Bloco:** Arquitetura MVC e Rotas no Laravel  
+**Período:** 70h-80h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- Entidades e atributos
-- Chaves primárias
-- Tipos de dados
+- Retornar JSON
+- Redirect
+- Views Blade
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - DER do projeto
+   - **ENTREGA 08: Laravel Stateless**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-DER do projeto
+**ENTREGA 08: Laravel Stateless**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

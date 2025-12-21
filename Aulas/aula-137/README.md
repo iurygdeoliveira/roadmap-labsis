@@ -1,14 +1,14 @@
-# Aula 135 - Widgets de Estatísticas - Parte 1
+# Aula 134 - Builder e Lógica Condicional
 
-**Bloco:** Dashboards, Widgets e Infolists  
-**Período:** 200h-210h  
+**Bloco:** Relacionamentos e Formulários Complexos  
+**Período:** 190h-200h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- StatsOverviewWidget
-- Cards de KPI
-- Valores e ícones
+- Builder (blocos)
+- hidden(), visible()
+- Campos condicionais
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Dashboard inicial
+   - **ENTREGA 20: Formulários Complexos**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Dashboard inicial
+**ENTREGA 20: Formulários Complexos**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

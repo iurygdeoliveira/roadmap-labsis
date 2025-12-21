@@ -1,4 +1,4 @@
-# Aula 144 - Custom Actions - Parte 2
+# Aula 143 - Custom Actions - Parte 1
 
 **Bloco:** Customização Extrema e Plugins  
 **Período:** 210h-220h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Confirmação
-- Notificações
-- Lógica de negócio
+- Action::make()
+- Modais
+- Formulários em actions
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Ações complexas
+   - Ações com modal
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Ações complexas
+Ações com modal
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

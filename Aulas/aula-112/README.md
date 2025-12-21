@@ -1,4 +1,4 @@
-# Aula 110 - Wire Navigate
+# Aula 109 - Entangle - Parte 2
 
 **Bloco:** Integração Alpine + Livewire e Otimização  
 **Período:** 160h-170h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- wire:navigate
-- SPA-like navigation
-- Persistent layouts
+- Componentes híbridos
+- Casos de uso
+- Best practices
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Navegação SPA
+   - Componente complexo híbrido
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Navegação SPA
+Componente complexo híbrido
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,14 +1,14 @@
-# Aula 148 - Otimização - Parte 1
+# Aula 147 - Personalização CSS e Tema
 
-**Bloco:** Deploy, Produção e Carreira  
-**Período:** 220h-230h  
+**Bloco:** Customização Extrema e Plugins  
+**Período:** 210h-220h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- php artisan optimize
-- Cache de config
-- Cache de rotas
+- Custom theme
+- Tailwind customizado
+- Branding
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Otimizar aplicação
+   - **ENTREGA 22: Sistema Personalizado**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Otimizar aplicação
+**ENTREGA 22: Sistema Personalizado**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 109 - Entangle - Parte 2
+# Aula 108 - Entangle - Parte 1
 
 **Bloco:** Integração Alpine + Livewire e Otimização  
 **Período:** 160h-170h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Componentes híbridos
-- Casos de uso
-- Best practices
+- @entangle()
+- Sincronizar estado
+- Alpine ↔ Livewire
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Componente complexo híbrido
+   - Estado compartilhado
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Componente complexo híbrido
+Estado compartilhado
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

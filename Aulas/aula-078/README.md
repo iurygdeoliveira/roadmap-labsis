@@ -1,4 +1,4 @@
-# Aula 076 - Autenticação - Customização
+# Aula 075 - Autenticação - Laravel Breeze
 
 **Bloco:** Autenticação, Autorização e Segurança  
 **Período:** 110h-120h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Customizar views
-- Validações
-- Redirecionamentos
+- composer require laravel/breeze
+- Login, Register
+- Password Reset
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Personalizar auth
+   - Sistema de autenticação
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Personalizar auth
+Sistema de autenticação
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

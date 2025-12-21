@@ -1,4 +1,4 @@
-# Aula 067 - CRUD com Eloquent - Parte 2
+# Aula 066 - CRUD com Eloquent - Parte 1
 
 **Bloco:** Eloquent ORM e Relacionamentos  
 **Período:** 90h-100h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- update()
-- delete()
-- Soft deletes
+- create(), save()
+- find(), all()
+- where()
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 10: CRUD Funcional**
+   - Implementar Create e Read
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 10: CRUD Funcional**
+Implementar Create e Read
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

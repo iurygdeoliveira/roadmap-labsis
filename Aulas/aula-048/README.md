@@ -1,4 +1,4 @@
-# Aula 046 - Interfaces e Classes Abstratas
+# Aula 045 - OOP - Herança e Polimorfismo
 
 **Bloco:** PHP Moderno e Orientação a Objetos  
 **Período:** 60h-70h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- interface
-- abstract class
-- Quando usar cada um
+- extends
+- parent::__construct()
+- Sobrescrita de métodos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Contratos e abstração
+   - Hierarquia de classes
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Contratos e abstração
+Hierarquia de classes
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

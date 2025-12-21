@@ -1,4 +1,4 @@
-# Aula 086 - Estados e Responsividade
+# Aula 085 - Flexbox e Grid com Tailwind
 
 **Bloco:** Tailwind CSS - A Revolução Utilitária  
 **Período:** 120h-130h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- hover:, focus:, active:
-- sm:, md:, lg:, xl:
-- dark:
+- flex, grid
+- justify-, items-
+- gap-, cols-
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Responsividade Tailwind
+   - Layouts com Tailwind
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Responsividade Tailwind
+Layouts com Tailwind
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

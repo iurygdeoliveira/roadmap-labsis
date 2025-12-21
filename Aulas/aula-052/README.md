@@ -1,4 +1,4 @@
-# Aula 050 - Roteamento - Parte 2
+# Aula 049 - Roteamento - Parte 1
 
 **Bloco:** Arquitetura MVC e Rotas no Laravel  
 **Período:** 70h-80h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Rotas nomeadas
-- Grupos de rotas
-- Prefixos e middleware
+- routes/web.php
+- Verbos HTTP (get, post)
+- Parâmetros de rota
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Sistema de rotas completo
+   - Rotas básicas do projeto
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Sistema de rotas completo
+Rotas básicas do projeto
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

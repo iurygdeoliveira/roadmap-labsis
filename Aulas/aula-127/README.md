@@ -1,4 +1,4 @@
-# Aula 125 - Ações de Linha
+# Aula 124 - Filtros - Parte 2
 
 **Bloco:** Tabelas e Listagens Avançadas no Filament  
 **Período:** 180h-190h  
@@ -6,10 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- EditAction
-- DeleteAction
-- ViewAction
-- Custom actions
+- Custom filters
+- Query scopes
+- Indicadores
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -29,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Ações nas linhas
+   - Filtros avançados
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Ações nas linhas
+Filtros avançados
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

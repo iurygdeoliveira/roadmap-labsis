@@ -1,4 +1,4 @@
-# Aula 085 - Flexbox e Grid com Tailwind
+# Aula 084 - Tipografia
 
 **Bloco:** Tailwind CSS - A Revolução Utilitária  
 **Período:** 120h-130h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- flex, grid
-- justify-, items-
-- gap-, cols-
+- font-, text-
+- leading-, tracking-
+- Escala tipográfica
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Layouts com Tailwind
+   - Migrar tipografia
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Layouts com Tailwind
+Migrar tipografia
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

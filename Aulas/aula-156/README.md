@@ -1,4 +1,4 @@
-# Aula 154 - Carreira e Próximos Passos
+# Aula 153 - CI/CD - GitHub Actions
 
 **Bloco:** Deploy, Produção e Carreira  
 **Período:** 220h-230h  
@@ -6,10 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Portfólio
-- GitHub
-- LinkedIn
-- Mercado de trabalho
+- Workflow básico
+- Testes automatizados
+- Deploy automático
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -29,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA FINAL: Projeto em Produção**
+   - Automação
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA FINAL: Projeto em Produção**
+Automação
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

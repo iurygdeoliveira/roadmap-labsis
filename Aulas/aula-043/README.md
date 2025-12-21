@@ -1,14 +1,14 @@
-# Aula 041 - Ambiente PHP
+# Aula 040 - ES Modules
 
-**Bloco:** PHP Moderno e Orientação a Objetos  
-**Período:** 60h-70h  
+**Bloco:** Assincronismo e APIs  
+**Período:** 50h-60h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- Instalação PHP 8.5+
-- Composer
-- Docker/Laravel Sail
+- import/export
+- export default
+- Organização em módulos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Setup ambiente de desenvolvimento
+   - **ENTREGA 06: Protótipo Persistente**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Setup ambiente de desenvolvimento
+**ENTREGA 06: Protótipo Persistente**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

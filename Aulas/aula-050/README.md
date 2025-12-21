@@ -1,14 +1,14 @@
-# Aula 048 - Instalação Laravel
+# Aula 047 - Traits e Enums
 
-**Bloco:** Arquitetura MVC e Rotas no Laravel  
-**Período:** 70h-80h  
+**Bloco:** PHP Moderno e Orientação a Objetos  
+**Período:** 60h-70h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- composer create-project
-- Estrutura de pastas
-- .env e configuração
+- trait
+- enum (PHP 8.5)
+- Casos de uso
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Instalar Laravel 12
+   - **ENTREGA 07: Biblioteca PHP**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Instalar Laravel 12
+**ENTREGA 07: Biblioteca PHP**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

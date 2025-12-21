@@ -1,4 +1,4 @@
-# Aula 070 - Componentes Blade - Parte 1
+# Aula 069 - Blade - Diretivas
 
 **Bloco:** Blade Templating e Frontend Assets  
 **Período:** 100h-110h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- <x-component />
-- php artisan make:component
-- Props
+- @if, @foreach
+- @auth, @guest
+- @csrf
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Componentes reutilizáveis
+   - Views com lógica
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Componentes reutilizáveis
+Views com lógica
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

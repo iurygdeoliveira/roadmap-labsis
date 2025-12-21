@@ -1,4 +1,4 @@
-# Aula 049 - Roteamento - Parte 1
+# Aula 048 - Instalação Laravel
 
 **Bloco:** Arquitetura MVC e Rotas no Laravel  
 **Período:** 70h-80h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- routes/web.php
-- Verbos HTTP (get, post)
-- Parâmetros de rota
+- composer create-project
+- Estrutura de pastas
+- .env e configuração
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Rotas básicas do projeto
+   - Instalar Laravel 12
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Rotas básicas do projeto
+Instalar Laravel 12
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

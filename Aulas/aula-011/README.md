@@ -1,4 +1,4 @@
-# Aula 009 - Box Model e Posicionamento
+# Aula 008 - Cascata e Especificidade
 
 **Bloco:** Estilização e Design Systems com CSS3  
 **Período:** 10h-20h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Margin, padding, border
-- Display (block, inline)
-- Position (static, relative, absolute)
+- Seletores e peso
+- Box Model completo
+- box-sizing: border-box
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Estilizar header e footer
+   - Estilização básica das telas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Estilizar header e footer
+Estilização básica das telas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

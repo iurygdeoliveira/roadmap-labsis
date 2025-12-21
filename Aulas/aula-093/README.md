@@ -1,4 +1,4 @@
-# Aula 091 - Alpine.js - x-transition
+# Aula 090 - Alpine.js - x-show e x-if
 
 **Bloco:** Alpine.js - Interatividade Declarativa  
 **Período:** 130h-140h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Transições suaves
-- Classes de transição
-- Durações
+- Visibilidade condicional
+- x-show vs x-if
+- Performance
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Animações Alpine
+   - Mostrar/ocultar elementos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Animações Alpine
+Mostrar/ocultar elementos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

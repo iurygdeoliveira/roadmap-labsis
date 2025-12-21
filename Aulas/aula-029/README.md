@@ -1,4 +1,4 @@
-# Aula 027 - Arrays - Métodos de Alta Ordem - Parte 2
+# Aula 026 - Arrays - Métodos de Alta Ordem - Parte 1
 
 **Bloco:** Lógica de Programação com JavaScript ES6+  
 **Período:** 30h-40h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- reduce
-- sort
-- Encadeamento de métodos
+- map, filter
+- find, findIndex
+- some, every
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 04: Módulo de Lógica**
+   - Filtrar e transformar dados
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 04: Módulo de Lógica**
+Filtrar e transformar dados
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

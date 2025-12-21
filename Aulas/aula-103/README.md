@@ -1,14 +1,15 @@
-# Aula 101 - Paginação Livewire
+# Aula 100 - Lifecycle Hooks
 
-**Bloco:** Livewire Avançado e Tabelas  
-**Período:** 150h-160h  
+**Bloco:** Introdução ao Livewire 3  
+**Período:** 140h-150h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- WithPagination trait
-- Paginação reativa
-- Links de paginação
+- mount()
+- render()
+- updated()
+- dehydrate()
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +29,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Paginar listagens
+   - **ENTREGA 15: Formulários Reativos**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Paginar listagens
+**ENTREGA 15: Formulários Reativos**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

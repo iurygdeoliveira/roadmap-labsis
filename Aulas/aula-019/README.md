@@ -1,4 +1,4 @@
-# Aula 017 - Tipografia Responsiva
+# Aula 016 - Media Queries - Layouts Adaptativos
 
 **Bloco:** Design Responsivo e Metodologias CSS  
 **Período:** 20h-30h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- rem, em vs px
-- vw, vh, vmin, vmax
-- clamp() para tipografia fluida
+- Container queries (conceito)
+- Aspect-ratio
+- Tabelas responsivas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Sistema tipográfico responsivo
+   - Adaptar conteúdo para mobile
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Sistema tipográfico responsivo
+Adaptar conteúdo para mobile
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

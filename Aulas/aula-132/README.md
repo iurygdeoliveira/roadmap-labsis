@@ -1,4 +1,4 @@
-# Aula 130 - Relation Managers - Parte 3
+# Aula 129 - Relation Managers - Parte 2
 
 **Bloco:** Relacionamentos e Formulários Complexos  
 **Período:** 190h-200h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Customização
-- Tabs
-- Ações específicas
+- belongsToMany
+- Tabelas pivot
+- Attach/Detach
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Personalizar relation managers
+   - Relações N:N no Filament
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Personalizar relation managers
+Relações N:N no Filament
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

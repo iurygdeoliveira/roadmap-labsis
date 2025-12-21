@@ -1,4 +1,4 @@
-# Aula 037 - Fetch API - Parte 1
+# Aula 036 - Async/Await e Event Loop
 
 **Bloco:** Assincronismo e APIs  
 **Período:** 50h-60h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- fetch()
-- Métodos HTTP (GET, POST)
-- Headers
+- async/await
+- Event Loop (conceito)
+- Microtasks vs macrotasks
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Consumir API pública
+   - Refatorar com async/await
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Consumir API pública
+Refatorar com async/await
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

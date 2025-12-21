@@ -1,4 +1,4 @@
-# Aula 052 - Controllers - Parte 2
+# Aula 051 - Controllers - Parte 1
 
 **Bloco:** Arquitetura MVC e Rotas no Laravel  
 **Período:** 70h-80h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Resource controllers
-- Injeção de dependência
-- Route model binding
+- php artisan make:controller
+- Métodos do controller
+- Retornar views
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - CRUD controllers
+   - Controllers principais
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-CRUD controllers
+Controllers principais
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 151 - Deploy - Servidor
+# Aula 150 - Deploy - Preparação
 
 **Bloco:** Deploy, Produção e Carreira  
 **Período:** 220h-230h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- VPS (Digital Ocean, AWS)
-- Nginx/Apache
-- SSL (Let's Encrypt)
+- Ambiente de produção
+- Variáveis de ambiente
+- .env.production
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Configurar servidor
+   - Preparar deploy
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Configurar servidor
+Preparar deploy
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 132 - Layout - Wizard e Tabs
+# Aula 131 - Layout - Grid e Section
 
 **Bloco:** Relacionamentos e Formulários Complexos  
 **Período:** 190h-200h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Wizard (steps)
-- Tabs
-- Formulários longos
+- Grid::make()
+- Section::make()
+- Organizar campos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Formulários em etapas
+   - Layouts de formulário
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Formulários em etapas
+Layouts de formulário
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

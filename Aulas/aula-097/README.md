@@ -1,14 +1,14 @@
-# Aula 095 - Livewire - Instalação
+# Aula 094 - Alpine.js - Componentes Complexos
 
-**Bloco:** Introdução ao Livewire 3  
-**Período:** 140h-150h  
+**Bloco:** Alpine.js - Interatividade Declarativa  
+**Período:** 130h-140h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- composer require livewire/livewire
-- Configuração
-- Primeira view
+- Dropdowns
+- Modais
+- Tabs
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Setup Livewire
+   - **ENTREGA 14: Frontend Reativo**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Setup Livewire
+**ENTREGA 14: Frontend Reativo**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

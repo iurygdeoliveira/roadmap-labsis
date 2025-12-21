@@ -1,14 +1,14 @@
-# Aula 035 - Assincronismo - Callbacks e Promises
+# Aula 034 - Validação de Formulários - Parte 2
 
-**Bloco:** Assincronismo e APIs  
-**Período:** 50h-60h  
+**Bloco:** O DOM e Interatividade  
+**Período:** 40h-50h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- Callbacks
-- Promise (resolve, reject)
-- then, catch
+- Máscaras de input
+- Validações customizadas
+- UX de validação
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Simular requisições assíncronas
+   - **ENTREGA 05: Interface Dinâmica**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Simular requisições assíncronas
+**ENTREGA 05: Interface Dinâmica**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

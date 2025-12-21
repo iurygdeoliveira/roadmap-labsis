@@ -1,4 +1,4 @@
-# Aula 029 - Árvore DOM - Parte 2
+# Aula 028 - Árvore DOM - Parte 1
 
 **Bloco:** O DOM e Interatividade  
 **Período:** 40h-50h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- parentElement, children
-- nextElementSibling
-- Navegação no DOM
+- querySelector, querySelectorAll
+- getElementById
+- getElementsByClassName
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Manipular estrutura do DOM
+   - Selecionar elementos da página
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Manipular estrutura do DOM
+Selecionar elementos da página
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

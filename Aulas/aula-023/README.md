@@ -1,14 +1,14 @@
-# Aula 021 - Sintaxe Moderna JavaScript - Parte 1
+# Aula 020 - Animações e Transições - Parte 2
 
-**Bloco:** Lógica de Programação com JavaScript ES6+  
-**Período:** 30h-40h  
+**Bloco:** Design Responsivo e Metodologias CSS  
+**Período:** 20h-30h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- let, const vs var
-- Tipos primitivos
-- Template strings
+- @keyframes
+- animation (nome, duração, iteração)
+- Animações de entrada
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Script básico de manipulação de dados
+   - **ENTREGA 03: Protótipo Responsivo**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Script básico de manipulação de dados
+**ENTREGA 03: Protótipo Responsivo**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

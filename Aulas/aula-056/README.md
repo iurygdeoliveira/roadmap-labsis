@@ -1,4 +1,4 @@
-# Aula 054 - Response e Views
+# Aula 053 - Request e Validation
 
 **Bloco:** Arquitetura MVC e Rotas no Laravel  
 **Período:** 70h-80h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Retornar JSON
-- Redirect
-- Views Blade
+- Classe Request
+- $request->input()
+- Validação básica
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 08: Laravel Stateless**
+   - Validar formulários
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 08: Laravel Stateless**
+Validar formulários
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

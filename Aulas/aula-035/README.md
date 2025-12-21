@@ -1,4 +1,4 @@
-# Aula 033 - Validação de Formulários - Parte 1
+# Aula 032 - Eventos
 
 **Bloco:** O DOM e Interatividade  
 **Período:** 40h-50h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Interceptar submit
-- Validar campos
-- Exibir mensagens de erro
+- addEventListener
+- Tipos de eventos
+- Event object (target, preventDefault)
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Validar formulário principal
+   - Capturar interações do usuário
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Validar formulário principal
+Capturar interações do usuário
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 073 - Componentização Avançada
+# Aula 072 - Vite e Assets
 
 **Bloco:** Blade Templating e Frontend Assets  
 **Período:** 100h-110h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Cards, Modais, Tabelas
-- Botões e Forms
-- Alertas
+- vite.config.js
+- @vite(['resources/css/app.css'])
+- Build de produção
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Componentes do projeto
+   - Integrar CSS e JS
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Componentes do projeto
+Integrar CSS e JS
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

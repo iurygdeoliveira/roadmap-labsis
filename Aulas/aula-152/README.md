@@ -1,4 +1,4 @@
-# Aula 150 - Deploy - Preparação
+# Aula 149 - Otimização - Parte 2
 
 **Bloco:** Deploy, Produção e Carreira  
 **Período:** 220h-230h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Ambiente de produção
-- Variáveis de ambiente
-- .env.production
+- Cache de views
+- Autoloader otimizado
+- Eager loading
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Preparar deploy
+   - Performance máxima
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Preparar deploy
+Performance máxima
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

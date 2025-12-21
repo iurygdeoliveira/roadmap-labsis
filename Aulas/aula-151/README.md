@@ -1,4 +1,4 @@
-# Aula 149 - Otimização - Parte 2
+# Aula 148 - Otimização - Parte 1
 
 **Bloco:** Deploy, Produção e Carreira  
 **Período:** 220h-230h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Cache de views
-- Autoloader otimizado
-- Eager loading
+- php artisan optimize
+- Cache de config
+- Cache de rotas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Performance máxima
+   - Otimizar aplicação
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Performance máxima
+Otimizar aplicação
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

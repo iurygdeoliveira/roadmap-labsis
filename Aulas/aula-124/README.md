@@ -1,4 +1,4 @@
-# Aula 122 - Table Builder - Colunas Avançadas
+# Aula 121 - Table Builder - Colunas Básicas
 
 **Bloco:** Tabelas e Listagens Avançadas no Filament  
 **Período:** 180h-190h  
@@ -6,10 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- IconColumn
-- ColorColumn
-- BadgeColumn
-- Formatação
+- TextColumn
+- BooleanColumn
+- ImageColumn
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -29,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Listagens ricas
+   - Listagens básicas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Listagens ricas
+Listagens básicas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

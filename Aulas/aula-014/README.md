@@ -1,4 +1,4 @@
-# Aula 012 - CSS Grid - Fundamentos
+# Aula 011 - Flexbox - Layouts Avançados
 
 **Bloco:** Estilização e Design Systems com CSS3  
 **Período:** 10h-20h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- grid-template-columns/rows
-- grid-gap
-- grid-template-areas
+- flex-grow, flex-shrink, flex-basis
+- order e align-self
+- Barra de navegação responsiva
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Layout Dashboard com Grid
+   - Sidebar com Flexbox
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Layout Dashboard com Grid
+Sidebar com Flexbox
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

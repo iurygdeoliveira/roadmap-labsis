@@ -1,4 +1,4 @@
-# Aula 104 - Eventos - $dispatch
+# Aula 103 - Loading States
 
 **Bloco:** Livewire Avançado e Tabelas  
 **Período:** 150h-160h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- $dispatch()
-- Eventos globais
-- Passar dados
+- wire:loading
+- wire:target
+- Indicadores de loading
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Comunicação entre componentes
+   - Feedback de carregamento
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Comunicação entre componentes
+Feedback de carregamento
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

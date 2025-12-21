@@ -1,4 +1,4 @@
-# Aula 047 - Traits e Enums
+# Aula 046 - Interfaces e Classes Abstratas
 
 **Bloco:** PHP Moderno e Orientação a Objetos  
 **Período:** 60h-70h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- trait
-- enum (PHP 8.5)
-- Casos de uso
+- interface
+- abstract class
+- Quando usar cada um
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 07: Biblioteca PHP**
+   - Contratos e abstração
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 07: Biblioteca PHP**
+Contratos e abstração
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

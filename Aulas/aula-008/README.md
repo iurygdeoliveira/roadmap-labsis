@@ -1,4 +1,4 @@
-# Aula 006 - Formulários - Estrutura e Acessibilidade
+# Aula 005 - Formulários - Inputs Tipados
 
 **Bloco:** Arquitetura Semântica e Estruturação de Documentos  
 **Período:** 0h-10h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Atributos name e id
-- Associação label-input
-- Fieldset e legend
+- date, email, number, tel
+- Validação nativa (required, pattern)
+- Placeholder vs label
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Completar formulários HTML
+   - Criar formulários das telas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Completar formulários HTML
+Criar formulários das telas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

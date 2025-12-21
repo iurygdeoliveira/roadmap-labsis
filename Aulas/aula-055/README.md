@@ -1,4 +1,4 @@
-# Aula 053 - Request e Validation
+# Aula 052 - Controllers - Parte 2
 
 **Bloco:** Arquitetura MVC e Rotas no Laravel  
 **Período:** 70h-80h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Classe Request
-- $request->input()
-- Validação básica
+- Resource controllers
+- Injeção de dependência
+- Route model binding
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Validar formulários
+   - CRUD controllers
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Validar formulários
+CRUD controllers
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

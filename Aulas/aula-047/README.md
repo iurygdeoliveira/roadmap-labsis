@@ -1,4 +1,4 @@
-# Aula 045 - OOP - Herança e Polimorfismo
+# Aula 044 - OOP - Classes e Objetos
 
 **Bloco:** PHP Moderno e Orientação a Objetos  
 **Período:** 60h-70h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- extends
-- parent::__construct()
-- Sobrescrita de métodos
+- Classes, propriedades, métodos
+- Construtor
+- Visibilidade (public, private)
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Hierarquia de classes
+   - Classes do domínio (Cliente, Pedido)
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Hierarquia de classes
+Classes do domínio (Cliente, Pedido)
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

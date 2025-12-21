@@ -1,4 +1,4 @@
-# Aula 011 - Flexbox - Layouts Avançados
+# Aula 010 - Flexbox - Fundamentos
 
 **Bloco:** Estilização e Design Systems com CSS3  
 **Período:** 10h-20h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- flex-grow, flex-shrink, flex-basis
-- order e align-self
-- Barra de navegação responsiva
+- Eixos principal e transversal
+- justify-content, align-items
+- flex-direction, flex-wrap
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Sidebar com Flexbox
+   - Menu de navegação com Flexbox
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Sidebar com Flexbox
+Menu de navegação com Flexbox
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

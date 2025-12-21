@@ -1,4 +1,4 @@
-# Aula 147 - Personalização CSS e Tema
+# Aula 146 - Plugins - Shield (Permissões)
 
 **Bloco:** Customização Extrema e Plugins  
 **Período:** 210h-220h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Custom theme
-- Tailwind customizado
-- Branding
+- Roles e Permissions
+- Super Admin
+- Controle de acesso
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 22: Sistema Personalizado**
+   - Sistema de permissões
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 22: Sistema Personalizado**
+Sistema de permissões
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

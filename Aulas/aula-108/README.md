@@ -1,4 +1,4 @@
-# Aula 106 - Upload de Arquivos - Parte 1
+# Aula 105 - Componentes Aninhados
 
 **Bloco:** Livewire Avançado e Tabelas  
 **Período:** 150h-160h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- WithFileUploads trait
-- wire:model (file)
-- Validação
+- Pai e filho
+- Listeners
+- Propriedades reativas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Upload básico
+   - Hierarquia de componentes
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Upload básico
+Hierarquia de componentes
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 026 - Arrays - Métodos de Alta Ordem - Parte 1
+# Aula 025 - Funções e Escopo
 
 **Bloco:** Lógica de Programação com JavaScript ES6+  
 **Período:** 30h-40h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- map, filter
-- find, findIndex
-- some, every
+- Arrow functions
+- Escopo léxico
+- Closures
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Filtrar e transformar dados
+   - Funções de cálculo do negócio
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Filtrar e transformar dados
+Funções de cálculo do negócio
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

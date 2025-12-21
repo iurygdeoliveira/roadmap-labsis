@@ -1,4 +1,4 @@
-# Aula 112 - Modularização Avançada
+# Aula 111 - Blade Components + Livewire
 
 **Bloco:** Integração Alpine + Livewire e Otimização  
 **Período:** 160h-170h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Botões, Modais
-- Estrutura escalável
-- Design system
+- Inputs reutilizáveis
+- Aceitar wire:model
+- Componentes flexíveis
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Componentização completa
+   - Biblioteca de inputs
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Componentização completa
+Biblioteca de inputs
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

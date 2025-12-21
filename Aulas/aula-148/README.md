@@ -1,4 +1,4 @@
-# Aula 146 - Plugins - Shield (Permissões)
+# Aula 145 - Plugins - Spatie Media Library
 
 **Bloco:** Customização Extrema e Plugins  
 **Período:** 210h-220h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Roles e Permissions
-- Super Admin
-- Controle de acesso
+- Instalação
+- Configuração
+- Uso no Filament
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Sistema de permissões
+   - Upload avançado
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Sistema de permissões
+Upload avançado
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

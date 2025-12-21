@@ -1,4 +1,4 @@
-# Aula 115 - Recursos - Parte 1
+# Aula 114 - Filament - Instalação
 
 **Bloco:** Fundamentos do Filament Panel  
 **Período:** 170h-180h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- make:filament-resource
-- Estrutura de Resource
-- Lista e Formulário
+- composer require filament/filament
+- Panel provider
+- php artisan filament:install
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Primeiro Resource
+   - Setup Filament
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Primeiro Resource
+Setup Filament
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

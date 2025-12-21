@@ -1,4 +1,4 @@
-# Aula 120 - Validação Automática
+# Aula 119 - Form Builder - Inputs Avançados
 
 **Bloco:** Fundamentos do Filament Panel  
 **Período:** 170h-180h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Regras de validação
-- Mensagens customizadas
-- Validação em tempo real
+- DatePicker
+- RichEditor
+- FileUpload
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 18: Painel Básico**
+   - Formulários completos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 18: Painel Básico**
+Formulários completos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

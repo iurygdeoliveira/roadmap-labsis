@@ -1,4 +1,4 @@
-# Aula 143 - Custom Actions - Parte 1
+# Aula 142 - Custom Pages - Parte 2
 
 **Bloco:** Customização Extrema e Plugins  
 **Período:** 210h-220h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Action::make()
-- Modais
-- Formulários em actions
+- Navegação
+- Widgets na página
+- Ações customizadas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Ações com modal
+   - Páginas completas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Ações com modal
+Páginas completas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

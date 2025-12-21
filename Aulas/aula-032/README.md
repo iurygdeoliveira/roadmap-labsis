@@ -1,4 +1,4 @@
-# Aula 030 - Manipulação do DOM - Parte 1
+# Aula 029 - Árvore DOM - Parte 2
 
 **Bloco:** O DOM e Interatividade  
 **Período:** 40h-50h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- createElement, appendChild
-- textContent, innerHTML
-- setAttribute
+- parentElement, children
+- nextElementSibling
+- Navegação no DOM
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Adicionar elementos dinamicamente
+   - Manipular estrutura do DOM
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Adicionar elementos dinamicamente
+Manipular estrutura do DOM
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

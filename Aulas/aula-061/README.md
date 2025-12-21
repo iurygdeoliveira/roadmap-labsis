@@ -1,4 +1,4 @@
-# Aula 059 - Seeders e Factories
+# Aula 058 - Migrations - Parte 2
 
 **Bloco:** Banco de Dados Relacional e Migrations  
 **Período:** 80h-90h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Database\Seeders
-- Factory::definition()
-- Faker
+- Relacionamentos
+- Constraints
+- Índices
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Gerar dados de teste
+   - Completar todas migrations
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Gerar dados de teste
+Completar todas migrations
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

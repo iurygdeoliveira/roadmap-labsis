@@ -1,4 +1,4 @@
-# Aula 019 - Animações e Transições - Parte 1
+# Aula 018 - Metodologia BEM
 
 **Bloco:** Design Responsivo e Metodologias CSS  
 **Período:** 20h-30h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- transition (propriedade, duração)
-- timing-function
-- Hover states
+- Block, Element, Modifier
+- Nomenclatura de classes
+- Organização de CSS
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Micro-interações (botões, links)
+   - Refatorar CSS com BEM
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Micro-interações (botões, links)
+Refatorar CSS com BEM
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

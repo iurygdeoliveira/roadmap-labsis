@@ -1,4 +1,4 @@
-# Aula 102 - Filtros e Busca
+# Aula 101 - Paginação Livewire
 
 **Bloco:** Livewire Avançado e Tabelas  
 **Período:** 150h-160h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Query strings
-- Filtros em tempo real
-- Resetar filtros
+- WithPagination trait
+- Paginação reativa
+- Links de paginação
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Sistema de busca
+   - Paginar listagens
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Sistema de busca
+Paginar listagens
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 032 - Eventos
+# Aula 031 - Manipulação do DOM - Parte 2
 
 **Bloco:** O DOM e Interatividade  
 **Período:** 40h-50h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- addEventListener
-- Tipos de eventos
-- Event object (target, preventDefault)
+- classList (add, remove, toggle)
+- style (inline styles)
+- removeChild
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Capturar interações do usuário
+   - Interações visuais
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Capturar interações do usuário
+Interações visuais
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

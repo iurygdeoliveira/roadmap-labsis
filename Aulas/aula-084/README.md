@@ -1,4 +1,4 @@
-# Aula 082 - Filosofia Utility-First
+# Aula 081 - Instalação Tailwind
 
 **Bloco:** Tailwind CSS - A Revolução Utilitária  
 **Período:** 120h-130h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Por que utility-first?
-- Classes utilitárias
-- Configuração
+- npm install tailwindcss
+- tailwind.config.js
+- Compilador JIT
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Primeiras classes
+   - Setup Tailwind
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Primeiras classes
+Setup Tailwind
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

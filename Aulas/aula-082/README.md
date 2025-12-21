@@ -1,4 +1,4 @@
-# Aula 080 - Segurança
+# Aula 079 - Policies
 
 **Bloco:** Autenticação, Autorização e Segurança  
 **Período:** 110h-120h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Proteção CSRF
-- XSS Prevention
-- SQL Injection (Eloquent)
+- php artisan make:policy
+- Métodos de autorização
+- Policy methods
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 12: Sistema Seguro**
+   - Autorização granular
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 12: Sistema Seguro**
+Autorização granular
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

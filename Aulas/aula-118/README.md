@@ -1,4 +1,4 @@
-# Aula 116 - Recursos - Parte 2
+# Aula 115 - Recursos - Parte 1
 
 **Bloco:** Fundamentos do Filament Panel  
 **Período:** 170h-180h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Configurar tabela
-- Configurar formulário
-- Navegação
+- make:filament-resource
+- Estrutura de Resource
+- Lista e Formulário
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Resources principais
+   - Primeiro Resource
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Resources principais
+Primeiro Resource
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

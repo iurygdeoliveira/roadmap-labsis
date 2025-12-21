@@ -1,4 +1,4 @@
-# Aula 066 - CRUD com Eloquent - Parte 1
+# Aula 065 - Relacionamentos - belongsToMany
 
 **Bloco:** Eloquent ORM e Relacionamentos  
 **Período:** 90h-100h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- create(), save()
-- find(), all()
-- where()
+- belongsToMany()
+- Tabelas pivot
+- attach, detach, sync
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Implementar Create e Read
+   - Relações N:N
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Implementar Create e Read
+Relações N:N
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

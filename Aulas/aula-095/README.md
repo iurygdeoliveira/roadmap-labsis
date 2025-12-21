@@ -1,4 +1,4 @@
-# Aula 093 - Alpine.js - x-for
+# Aula 092 - Alpine.js - x-model
 
 **Bloco:** Alpine.js - Interatividade Declarativa  
 **Período:** 130h-140h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Loops em Alpine
-- Renderizar listas
-- :key
+- Two-way binding
+- x-model em inputs
+- Sincronização
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Listas dinâmicas
+   - Formulários reativos
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Listas dinâmicas
+Formulários reativos
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

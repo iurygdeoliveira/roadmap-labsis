@@ -1,4 +1,4 @@
-# Aula 124 - Filtros - Parte 2
+# Aula 123 - Filtros - Parte 1
 
 **Bloco:** Tabelas e Listagens Avançadas no Filament  
 **Período:** 180h-190h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Custom filters
-- Query scopes
-- Indicadores
+- Filter
+- SelectFilter
+- TernaryFilter
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Filtros avançados
+   - Sistema de filtros
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Filtros avançados
+Sistema de filtros
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 069 - Blade - Diretivas
+# Aula 068 - Blade - Fundamentos
 
 **Bloco:** Blade Templating e Frontend Assets  
 **Período:** 100h-110h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- @if, @foreach
-- @auth, @guest
-- @csrf
+- @extends, @section
+- @yield
+- Layouts mestres
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Views com lógica
+   - Layout mestre do projeto
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Views com lógica
+Layout mestre do projeto
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

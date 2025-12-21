@@ -1,4 +1,4 @@
-# Aula 111 - Blade Components + Livewire
+# Aula 110 - Wire Navigate
 
 **Bloco:** Integração Alpine + Livewire e Otimização  
 **Período:** 160h-170h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Inputs reutilizáveis
-- Aceitar wire:model
-- Componentes flexíveis
+- wire:navigate
+- SPA-like navigation
+- Persistent layouts
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Biblioteca de inputs
+   - Navegação SPA
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Biblioteca de inputs
+Navegação SPA
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

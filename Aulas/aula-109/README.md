@@ -1,4 +1,4 @@
-# Aula 107 - Upload de Arquivos - Parte 2
+# Aula 106 - Upload de Arquivos - Parte 1
 
 **Bloco:** Livewire Avançado e Tabelas  
 **Período:** 150h-160h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Preview temporário
-- Múltiplos arquivos
-- Progresso
+- WithFileUploads trait
+- wire:model (file)
+- Validação
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 16: Datatables Dinâmicas**
+   - Upload básico
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 16: Datatables Dinâmicas**
+Upload básico
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 136 - Widgets de Estatísticas - Parte 2
+# Aula 135 - Widgets de Estatísticas - Parte 1
 
 **Bloco:** Dashboards, Widgets e Infolists  
 **Período:** 200h-210h  
@@ -6,10 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Tendências
-- Cores
-- Descrições
-- Links
+- StatsOverviewWidget
+- Cards de KPI
+- Valores e ícones
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -29,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - KPIs completos
+   - Dashboard inicial
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-KPIs completos
+Dashboard inicial
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

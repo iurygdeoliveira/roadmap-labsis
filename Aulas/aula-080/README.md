@@ -1,4 +1,4 @@
-# Aula 078 - Gates
+# Aula 077 - Middleware
 
 **Bloco:** Autenticação, Autorização e Segurança  
 **Período:** 110h-120h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Gate::define()
-- Gate::allows()
-- Gates no código
+- Middleware auth
+- Criar middleware customizado
+- Grupos de middleware
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Controle de acesso simples
+   - Proteger rotas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Controle de acesso simples
+Proteger rotas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

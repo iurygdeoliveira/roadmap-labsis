@@ -1,14 +1,14 @@
-# Aula 068 - Blade - Fundamentos
+# Aula 067 - CRUD com Eloquent - Parte 2
 
-**Bloco:** Blade Templating e Frontend Assets  
-**Período:** 100h-110h  
+**Bloco:** Eloquent ORM e Relacionamentos  
+**Período:** 90h-100h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- @extends, @section
-- @yield
-- Layouts mestres
+- update()
+- delete()
+- Soft deletes
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Layout mestre do projeto
+   - **ENTREGA 10: CRUD Funcional**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Layout mestre do projeto
+**ENTREGA 10: CRUD Funcional**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

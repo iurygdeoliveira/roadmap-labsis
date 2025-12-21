@@ -1,4 +1,4 @@
-# Aula 023 - Controle de Fluxo - Parte 1
+# Aula 022 - Sintaxe Moderna JavaScript - Parte 2
 
 **Bloco:** Lógica de Programação com JavaScript ES6+  
 **Período:** 30h-40h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- if, else, switch
-- Operador ternário
-- Truthy e falsy values
+- Objetos e arrays
+- Destructuring
+- Spread operator
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Lógica de validação de dados
+   - Criar mock data do projeto
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Lógica de validação de dados
+Criar mock data do projeto
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

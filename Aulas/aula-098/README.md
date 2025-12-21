@@ -1,4 +1,4 @@
-# Aula 096 - Arquitetura Livewire
+# Aula 095 - Livewire - Instalação
 
 **Bloco:** Introdução ao Livewire 3  
 **Período:** 140h-150h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Ciclo AJAX
-- Hydration/Dehydration
-- Como funciona
+- composer require livewire/livewire
+- Configuração
+- Primeira view
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Entender Livewire
+   - Setup Livewire
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Entender Livewire
+Setup Livewire
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

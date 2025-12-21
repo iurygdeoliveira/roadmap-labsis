@@ -1,4 +1,4 @@
-# Aula 094 - Alpine.js - Componentes Complexos
+# Aula 093 - Alpine.js - x-for
 
 **Bloco:** Alpine.js - Interatividade Declarativa  
 **Período:** 130h-140h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Dropdowns
-- Modais
-- Tabs
+- Loops em Alpine
+- Renderizar listas
+- :key
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 14: Frontend Reativo**
+   - Listas dinâmicas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 14: Frontend Reativo**
+Listas dinâmicas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

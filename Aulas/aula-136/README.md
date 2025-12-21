@@ -1,4 +1,4 @@
-# Aula 134 - Builder e Lógica Condicional
+# Aula 133 - Repeater
 
 **Bloco:** Relacionamentos e Formulários Complexos  
 **Período:** 190h-200h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Builder (blocos)
-- hidden(), visible()
-- Campos condicionais
+- Repeater::make()
+- Itens dinâmicos
+- Reorderable
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 20: Formulários Complexos**
+   - Linhas dinâmicas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 20: Formulários Complexos**
+Linhas dinâmicas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

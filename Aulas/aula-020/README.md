@@ -1,4 +1,4 @@
-# Aula 018 - Metodologia BEM
+# Aula 017 - Tipografia Responsiva
 
 **Bloco:** Design Responsivo e Metodologias CSS  
 **Período:** 20h-30h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Block, Element, Modifier
-- Nomenclatura de classes
-- Organização de CSS
+- rem, em vs px
+- vw, vh, vmin, vmax
+- clamp() para tipografia fluida
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Refatorar CSS com BEM
+   - Sistema tipográfico responsivo
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Refatorar CSS com BEM
+Sistema tipográfico responsivo
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 020 - Animações e Transições - Parte 2
+# Aula 019 - Animações e Transições - Parte 1
 
 **Bloco:** Design Responsivo e Metodologias CSS  
 **Período:** 20h-30h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- @keyframes
-- animation (nome, duração, iteração)
-- Animações de entrada
+- transition (propriedade, duração)
+- timing-function
+- Hover states
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 03: Protótipo Responsivo**
+   - Micro-interações (botões, links)
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 03: Protótipo Responsivo**
+Micro-interações (botões, links)
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

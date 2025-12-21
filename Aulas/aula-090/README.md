@@ -1,14 +1,14 @@
-# Aula 088 - Alpine.js - Instalação e x-data
+# Aula 087 - Dark Mode
 
-**Bloco:** Alpine.js - Interatividade Declarativa  
-**Período:** 130h-140h  
+**Bloco:** Tailwind CSS - A Revolução Utilitária  
+**Período:** 120h-130h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- CDN Alpine
-- x-data
-- Estado reativo
+- class='dark'
+- dark: prefix
+- Toggle de tema
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Primeiro componente Alpine
+   - **ENTREGA 13: UI com Tailwind**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Primeiro componente Alpine
+**ENTREGA 13: UI com Tailwind**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

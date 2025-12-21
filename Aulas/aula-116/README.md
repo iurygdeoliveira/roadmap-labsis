@@ -1,14 +1,14 @@
-# Aula 114 - Filament - Instalação
+# Aula 113 - Performance e wire:key
 
-**Bloco:** Fundamentos do Filament Panel  
-**Período:** 170h-180h  
+**Bloco:** Integração Alpine + Livewire e Otimização  
+**Período:** 160h-170h  
 **Duração:** 1h30
 
 ## 📚 Conteúdo Programático
 
-- composer require filament/filament
-- Panel provider
-- php artisan filament:install
+- wire:key
+- Lazy loading
+- Otimizações
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Setup Filament
+   - **ENTREGA 17: Aplicação SPA**
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Setup Filament
+**ENTREGA 17: Aplicação SPA**
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

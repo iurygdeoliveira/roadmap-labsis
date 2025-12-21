@@ -1,99 +1,58 @@
-# Aula 002 - Refinando sua Ideia com Inteligência Artificial
+# Aula 001 - Definindo sua Ideia de Projeto
 
 **Bloco:** Planejamento e Concepção  
-**Período:** 0h-10h  
 **Duração:** 1h00
 
 ## 📚 Conteúdo Programático
 
--   Engenharia de Prompt para Produto
--   Análise de requisitos com IA
--   Definição de User Stories básicas
--   Diferenciação entre funcionalidades essenciais (Must Have) e desejáveis (Nice to Have)
+-   Identificação de problemas reais
+-   Conceito de MVP (Minimum Viable Product)
+-   Definição de escopo inicial
 
 ## 🎯 Objetivos de Aprendizagem
 
 Ao final desta aula, você será capaz de:
 
--   Utilizar LLMs (ChatGPT, Gemini, Claude) como assistentes de Produto
--   Refinar e expandir sua ideia inicial com feedback estruturado
--   Gerar uma lista de funcionalidades clara para o seu MVP
+-   Escolher uma ideia de projeto motivadora para a disciplina
+-   Compreender a importância de focar em um problema real
+-   Definir o escopo mínimo viável para sua aplicação
 
 ## ✅ Atividades
 
-1. **Estudo Teórico** (10min)
+1.  **Brainstorming de Ideias de Projeto Assistido por IA** (60min)
 
-    - Entender o papel da IA na análise de requisitos
-    - Ler sobre a estrutura do prompt recomendado
+    ![Brainstorming](./brainstorming.png)
 
-2. **Prática Guiada** (30min)
+    -   **Se você ainda não tem uma ideia de projeto:**
 
-    - Acessar uma ferramenta de IA
-    - Utilizar o prompt de "Product Manager Sênior" fornecido abaixo
-    - Analisar criticamente a resposta da IA
+        1.  Abra o arquivo [`prompt_para_ideias.md`](./prompt_para_ideias.md) localizado nesta pasta.
+        2.  Copie todo o conteúdo deste arquivo.
+        3.  Acesse o [Google Gemini](https://gemini.google.com/) (certifique-se de estar usando uma versão capaz, como o Gemini Pro/Advanced, ou a versão gratuita atual).
+        4.  Cole o prompt e envie.
+        5.  A IA atuará como um especialista e gerará 5 a 8 ideias de projetos ajustadas para o nosso contexto (Laravel 12 + Filament v4).
+        6.  Analise as sugestões com sua equipe e escolha a que mais lhes agradar ou use-as como inspiração para criar sua própria variante.
 
-3. **Aplicação no Projeto** (20min)
-    - Refinar a resposta da IA
-    - Salvar o escopo definido
+    -   **Se sua equipe já tem uma ideia de projeto:** Ótimo! Revise sua ideia à luz dos conceitos de MVP e problema real que discutimos. Se sua ideia estiver clara e alinhada, você pode considerar esta atividade como concluída. Basta registrar sua ideia inicial conforme a tarefa abaixo e informar no Classroom que você já tem um projeto em mente.
 
 ## 📝 Projeto Autoral
 
-### Prompt Recomendado:
-
-```markdown
-**Contexto**: Estou iniciando um projeto de software para aprendizado e portfólio.
-**Minha Ideia**: [Cole aqui o resumo que você escreveu na Aula 001]
-**Objetivo**: Desenvolver um MVP (Produto Mínimo Viável) funcional.
-**Pedido**:
-
-1. Atue como um Product Manager Sênior.
-2. Analise minha ideia e aponte pontos fortes e fracos.
-3. Sugira uma lista de funcionalidades essenciais para o MVP.
-4. Sugira 3 funcionalidades futuras ("Nice to have").
-5. Sugira um nome criativo para o projeto.
-6. Crie as User Stories básicas para o MVP.
-```
-
 ### Tarefa desta aula:
 
-Executar o prompt acima com sua ideia e salvar o resultado refinado (o que você realmente decidiu implementar) em um arquivo chamado `escopo_projeto.md`.
+Criar um arquivo chamado `ideia_inicial.md` e envia-la no classroom da disciplina. O arquivo deve conter:
 
-### Critérios de Aceite:
+1.  **Nome do Projeto (Provisório)**
+2.  **O Problema**: O que ele resolve?
+3.  **A Solução**: O que o software faz?
+4.  **Público-alvo**: Para quem é?
+5.  **Dificuldades e Soluções**: Quais dificuldades vocês encontram para definir a ideia ?
 
--   [ ] Escopo do MVP definido (funcionalidades claras)
--   [ ] Pontos fracos da ideia original mitigados ou aceitos
--   [ ] Lista de "Nice to Have" para o futuro separada do MVP
--   [ ] Arquivo `escopo_projeto.md` criado e preenchido
+### Critérios que serão utilizados para avaliar a tarefa:
 
-## 🔗 Recursos
-
-### Ferramentas de IA
-
--   [ChatGPT](https://chat.openai.com/)
--   [Google Gemini](https://gemini.google.com/)
--   [Claude](https://claude.ai/)
-
-### Tutoriais Recomendados
-
--   Pesquise sobre "Como criar User Stories" se o termo for novo para você.
--   Artigos sobre "Engenharia de Prompt para Desenvolvedores".
-
-## 📌 Anotações
-
-Espaço para suas anotações durante o estudo:
-
-```
-[Adicione suas anotações aqui]
-```
-
-## ✨ Dificuldades e Soluções
-
-Registre as dificuldades encontradas e como você as resolveu:
-
-| Dificuldade                             | Solução                                       | Aprendizado                                             |
-| --------------------------------------- | --------------------------------------------- | ------------------------------------------------------- |
-| Ex: A IA sugeriu coisas muito complexas | Pedi para ela "Simplificar para um iniciante" | É preciso negociar com a IA para manter o escopo viável |
+-   [ ] Problema real identificado
+-   [ ] Solução proposta é clara e objetiva
+-   [ ] Público-alvo definido
+-   [ ] Dificuldades e soluções registradas
 
 ## 🚀 Próxima Aula
 
-Na próxima aula, você aprenderá sobre: **HTML5 Semântico e Elementos Estruturais**, iniciando a construção real da interface do seu projeto.
+Na próxima aula, você aprenderá sobre: **Refinando sua Ideia com Inteligência Artificial** para gerar requisitos e funcionalidades.

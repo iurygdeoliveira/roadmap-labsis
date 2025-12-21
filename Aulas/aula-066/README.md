@@ -1,4 +1,4 @@
-# Aula 064 - Relacionamentos - hasMany
+# Aula 063 - Relacionamentos - hasOne e belongsTo
 
 **Bloco:** Eloquent ORM e Relacionamentos  
 **Período:** 90h-100h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- hasMany()
-- Eager loading (with)
-- Lazy loading
+- hasOne()
+- belongsTo()
+- Consultar relações
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Relações 1:N
+   - Relações 1:1
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Relações 1:N
+Relações 1:1
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

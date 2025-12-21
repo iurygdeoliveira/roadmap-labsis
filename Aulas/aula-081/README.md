@@ -1,4 +1,4 @@
-# Aula 079 - Policies
+# Aula 078 - Gates
 
 **Bloco:** Autenticação, Autorização e Segurança  
 **Período:** 110h-120h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- php artisan make:policy
-- Métodos de autorização
-- Policy methods
+- Gate::define()
+- Gate::allows()
+- Gates no código
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Autorização granular
+   - Controle de acesso simples
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Autorização granular
+Controle de acesso simples
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

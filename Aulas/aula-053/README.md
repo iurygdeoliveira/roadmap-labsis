@@ -1,4 +1,4 @@
-# Aula 051 - Controllers - Parte 1
+# Aula 050 - Roteamento - Parte 2
 
 **Bloco:** Arquitetura MVC e Rotas no Laravel  
 **Período:** 70h-80h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- php artisan make:controller
-- Métodos do controller
-- Retornar views
+- Rotas nomeadas
+- Grupos de rotas
+- Prefixos e middleware
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Controllers principais
+   - Sistema de rotas completo
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Controllers principais
+Sistema de rotas completo
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

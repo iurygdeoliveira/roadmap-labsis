@@ -1,4 +1,4 @@
-# Aula 118 - Form Builder - Inputs Básicos
+# Aula 117 - Recursos - Parte 3
 
 **Bloco:** Fundamentos do Filament Panel  
 **Período:** 170h-180h  
@@ -6,10 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- TextInput
-- Select
-- Toggle
-- Checkbox
+- Personalizar rotas
+- Ícones
+- Labels
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -29,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Formulários básicos
+   - Customizar Resources
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Formulários básicos
+Customizar Resources
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

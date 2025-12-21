@@ -1,4 +1,4 @@
-# Aula 005 - Formulários - Inputs Tipados
+# Aula 004 - HTML5 Semântico - Seções e Layout
 
 **Bloco:** Arquitetura Semântica e Estruturação de Documentos  
 **Período:** 0h-10h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- date, email, number, tel
-- Validação nativa (required, pattern)
-- Placeholder vs label
+- <section>, <aside>, <header>, <footer>
+- Hierarquia de informação
+- Boas práticas
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Criar formulários das telas
+   - Wireframe HTML das 3 telas principais
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Criar formulários das telas
+Wireframe HTML das 3 telas principais
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

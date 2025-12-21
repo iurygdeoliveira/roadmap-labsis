@@ -1,4 +1,4 @@
-# Aula 133 - Repeater
+# Aula 132 - Layout - Wizard e Tabs
 
 **Bloco:** Relacionamentos e Formulários Complexos  
 **Período:** 190h-200h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Repeater::make()
-- Itens dinâmicos
-- Reorderable
+- Wizard (steps)
+- Tabs
+- Formulários longos
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Linhas dinâmicas
+   - Formulários em etapas
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Linhas dinâmicas
+Formulários em etapas
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 152 - Deploy - Aplicação
+# Aula 151 - Deploy - Servidor
 
 **Bloco:** Deploy, Produção e Carreira  
 **Período:** 220h-230h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Git deploy
-- Supervisor (queues)
-- Migrations em produção
+- VPS (Digital Ocean, AWS)
+- Nginx/Apache
+- SSL (Let's Encrypt)
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Colocar no ar
+   - Configurar servidor
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Colocar no ar
+Configurar servidor
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

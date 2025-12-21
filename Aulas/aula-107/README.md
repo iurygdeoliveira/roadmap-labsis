@@ -1,4 +1,4 @@
-# Aula 105 - Componentes Aninhados
+# Aula 104 - Eventos - $dispatch
 
 **Bloco:** Livewire Avançado e Tabelas  
 **Período:** 150h-160h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- Pai e filho
-- Listeners
-- Propriedades reativas
+- $dispatch()
+- Eventos globais
+- Passar dados
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Hierarquia de componentes
+   - Comunicação entre componentes
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Hierarquia de componentes
+Comunicação entre componentes
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

@@ -1,4 +1,4 @@
-# Aula 060 - Query Builder
+# Aula 059 - Seeders e Factories
 
 **Bloco:** Banco de Dados Relacional e Migrations  
 **Período:** 80h-90h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- DB::table()
-- select, where, join
-- SQL vs Query Builder
+- Database\Seeders
+- Factory::definition()
+- Faker
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - **ENTREGA 09: Schema Versionado**
+   - Gerar dados de teste
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-**ENTREGA 09: Schema Versionado**
+Gerar dados de teste
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado

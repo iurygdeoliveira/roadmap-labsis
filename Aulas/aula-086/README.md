@@ -1,4 +1,4 @@
-# Aula 084 - Tipografia
+# Aula 083 - Espaçamento e Cores
 
 **Bloco:** Tailwind CSS - A Revolução Utilitária  
 **Período:** 120h-130h  
@@ -6,9 +6,9 @@
 
 ## 📚 Conteúdo Programático
 
-- font-, text-
-- leading-, tracking-
-- Escala tipográfica
+- p-, m-, gap-
+- bg-, text-, border-
+- Escala de cores
 
 ## 🎯 Objetivos de Aprendizagem
 
@@ -28,12 +28,12 @@ Ao final desta aula, você será capaz de:
    - Experimentar com código
 
 3. **Aplicação no Projeto** (20min)
-   - Migrar tipografia
+   - Migrar espaçamento
 
 ## 📝 Projeto Autoral
 
 ### Tarefa desta aula:
-Migrar tipografia
+Migrar espaçamento
 
 ### Critérios de Aceite:
 - [ ] Código funcional e testado
